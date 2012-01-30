@@ -46,6 +46,7 @@
             hide : function( ) { 
                 // ... 
             },
+            //$('div').tooltip('update', 'This is the new tooltip content!'); //even more args can be add automaticly
             update : function( content ) { 
                 // ...
             }
